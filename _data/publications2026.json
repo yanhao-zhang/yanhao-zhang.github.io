@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2605.30904",
+    "title": "MergeTok: Unified Continuous and Discrete Visual Tokenization via Token Merging",
+    "venue": "arXiv 2026",
+    "code": "",
+    "project": "",
+    "source": "https://arxiv.org/abs/2605.30904",
+    "pdf": "https://arxiv.org/pdf/2605.30904",
+    "image": "images/papers2026/2605.30904.png",
+    "authors": "Luyuan Zhang, Siyuan Li, Zedong Wang, Qingsong Xie, Cheng Tan, Anna Wang, Yanhao Zhang, Chen Chen, Haonan Lu, Haoqian Wang",
+    "image_source": "https://arxiv.org/html/2605.30904v1/fig_mergetok_framework.png"
+  },
+  {
+    "id": "2604.17052",
+    "title": "OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning",
+    "venue": "CVPR 2026",
+    "code": "https://github.com/Solus-sano/OASIS",
+    "project": "",
+    "source": "https://arxiv.org/abs/2604.17052",
+    "pdf": "https://arxiv.org/pdf/2604.17052",
+    "image": "images/papers2026/2604.17052.png",
+    "authors": "Zhijia Liang, Jiaming Li, Weikai Chen, Yanhao Zhang, Haonan Lu, Guanbin Li",
+    "image_source": "https://arxiv.org/html/2604.17052v1/teaser_22.png"
+  },
+  {
+    "id": "2603.12938",
+    "title": "Thinking in Streaming Video",
+    "venue": "ECCV 2026",
+    "code": "https://github.com/CASIA-IVA-Lab/ThinkStream",
+    "project": "",
+    "source": "https://arxiv.org/abs/2603.12938",
+    "pdf": "https://arxiv.org/pdf/2603.12938",
+    "image": "images/papers2026/2603.12938.png",
+    "authors": "Zikang Liu, Longteng Guo, Handong Li, Ru Zhen, Xingjian He, Ruyi Ji, Xiaoming Ren, Yanhao Zhang, Haonan Lu, Jing Liu",
+    "image_source": "https://arxiv.org/html/2603.12938v1/intro.png"
+  },
+  {
+    "id": "2511.12254",
+    "title": "Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation",
+    "venue": "AAAI 2026",
+    "code": "https://github.com/george13zyx/MAR",
+    "project": "https://george13zyx.github.io/projects/mar/",
+    "source": "https://arxiv.org/abs/2511.12254",
+    "pdf": "https://arxiv.org/pdf/2511.12254",
+    "image": "images/papers2026/2511.12254.png",
+    "authors": "Yuxiang Zhou, Jichang Li, Yanhao Zhang, Haonan Lu, Guanbin Li",
+    "image_source": "https://arxiv.org/html/2511.12254v1/figure1.png"
+  },
+  {
+    "id": "2508.18634",
+    "title": "OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward",
+    "venue": "AAAI 2026",
+    "code": "https://github.com/clzhongg/OwlCap",
+    "project": "",
+    "source": "https://arxiv.org/abs/2508.18634",
+    "pdf": "https://arxiv.org/pdf/2508.18634",
+    "image": "images/papers2026/2508.18634.png",
+    "authors": "Chunlin Zhong, Qiuxia Hou, Zhangjun Zhou, Shuang Hao, Haonan Lu, Yanhao Zhang, He Tang, Xiang Bai",
+    "image_source": "https://arxiv.org/html/2508.18634v1/Fig1.png"
+  }
+]
