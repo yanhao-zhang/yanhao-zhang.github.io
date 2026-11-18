@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanhao Zhang"
-description              : "Yanhao Zhang — Multimedia Retrieval, Social Media Analysis and Computer Vision"
+description              : "Research Interests: MLLM, AIGC, Foundation Models, AI Agents, AgentOS"
 url                      : "https://yanhao-zhang.github.io"
 repository               : "yanhao-zhang/yanhao-zhang.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,8 +27,9 @@ baidu_site_verification  :
 author:
   name             : "Yanhao Zhang"
   name_cn          : "张严浩"
-  avatar           : ""
-  bio              : "Ph.D., Algorithm Expert"
+  avatar           : "/images/myphoto.png"
+  bio              : "Ph.D, Algorithm Expert"
+  role             : "Lead, Multi-X team at OPPO AI Center"
   location         :
   employer         :
   pubmed           : 

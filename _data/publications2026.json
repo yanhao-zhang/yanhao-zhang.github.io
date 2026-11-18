@@ -1,5 +1,17 @@
 [
   {
+    "id": "2605.05765",
+    "title": "X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction",
+    "venue": "arXiv 2026",
+    "code": "",
+    "project": "",
+    "source": "https://arxiv.org/abs/2605.05765",
+    "pdf": "https://arxiv.org/pdf/2605.05765",
+    "image": "images/papers2026/2605.05765.png",
+    "authors": "Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Qi Qi, Quanlong Zheng, Qi Wu, Zhenyi Liao, Binqiang Pan, Haobo Ji, Haonan Lu",
+    "image_source": "https://arxiv.org/html/2605.05765v1/x-omniclaw_structure.png"
+  },
+  {
     "id": "2605.30904",
     "title": "MergeTok: Unified Continuous and Discrete Visual Tokenization via Token Merging",
     "venue": "arXiv 2026",
@@ -36,6 +48,18 @@
     "image_source": "https://arxiv.org/html/2603.12938v1/intro.png"
   },
   {
+    "id": "2603.18649",
+    "title": "Click-to-Ask: An AI Live Streaming Assistant with Offline Copywriting and Online Interactive QA",
+    "venue": "WWW 2026 Demos",
+    "code": "",
+    "project": "",
+    "source": "https://arxiv.org/abs/2603.18649",
+    "pdf": "https://arxiv.org/pdf/2603.18649",
+    "image": "images/papers2026/2603.18649.png",
+    "authors": "Ruizhi Yu, Keyang Zhong, Peng Liu, Qi Wu, Haoran Zhang, Yanhao Zhang, Chen Chen, Haonan Lu",
+    "image_source": "https://arxiv.org/html/2603.18649v1/framework_new2.png"
+  },
+  {
     "id": "2511.12254",
     "title": "Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation",
     "venue": "AAAI 2026",
@@ -55,8 +79,46 @@
     "project": "",
     "source": "https://arxiv.org/abs/2508.18634",
     "pdf": "https://arxiv.org/pdf/2508.18634",
-    "image": "images/papers2026/2508.18634.png",
+    "image": "images/papers2026/owlcap-landscape.png",
     "authors": "Chunlin Zhong, Qiuxia Hou, Zhangjun Zhou, Shuang Hao, Haonan Lu, Yanhao Zhang, He Tang, Xiang Bai",
-    "image_source": "https://arxiv.org/html/2508.18634v1/Fig1.png"
+    "image_source": "https://arxiv.org/html/2508.18634v2/Fig2.png"
+  },
+  {
+    "id": "2510.11496",
+    "title": "AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model",
+    "venue": "arXiv 2025",
+    "code": "https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation",
+    "code_label": "Evaluation Code",
+    "project": "",
+    "source": "https://arxiv.org/abs/2510.11496",
+    "pdf": "https://arxiv.org/pdf/2510.11496",
+    "image": "images/papers2025/andesvl.png",
+    "authors": "Zhiwei Jin, Xiaohui Song, Nan Wang, Yafei Liu, Chao Li, Xin Li, Ruichen Wang, Zhihao Li, Qi Qi, Long Cheng, Dongze Hao, Quanlong Zheng, Yanhao Zhang, et al.",
+    "image_source": "https://arxiv.org/html/2510.11496v3/figure/Overall_arch.png"
+  },
+  {
+    "id": "2504.00883",
+    "title": "Improved Visual-Spatial Reasoning via R1-Zero-Like Training",
+    "venue": "arXiv 2025",
+    "code": "https://github.com/zhijie-group/R1-Zero-VSI",
+    "project": "https://huggingface.co/datasets/OPPOer/VSI-100k",
+    "project_label": "Dataset",
+    "source": "https://arxiv.org/abs/2504.00883",
+    "pdf": "https://arxiv.org/pdf/2504.00883",
+    "image": "images/papers2025/vsi-r1.png",
+    "authors": "Zhenyi Liao, Qingsong Xie, Yanhao Zhang, Zijian Kong, Haonan Lu, Zhenyu Yang, Zhijie Deng",
+    "image_source": "https://arxiv.org/html/2504.00883v2/fig1.png"
+  },
+  {
+    "id": "2411.17261",
+    "title": "HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator",
+    "venue": "CVPR 2025",
+    "code": "",
+    "project": "https://yfthu.github.io/HEIE/",
+    "source": "https://arxiv.org/abs/2411.17261",
+    "pdf": "https://arxiv.org/pdf/2411.17261",
+    "image": "images/papers2025/heie.png",
+    "authors": "Fan Yang, Ru Zhen, Jianing Wang, Yanhao Zhang, Haoxiang Chen, Haonan Lu, Sicheng Zhao, Guiguang Ding",
+    "image_source": "https://yfthu.github.io/HEIE/static/images/method_v3_00.png"
   }
 ]
